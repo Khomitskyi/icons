@@ -1,0 +1,59 @@
+.icons{
+	color:red;	
+	margin:auto;
+	width:300px;
+	font-size:0;
+}
+.icons__i{
+	list-style:none;
+	width:77px;
+	height:77px;
+	background-color:grey;	
+	display:inline-block;
+	border-radius:50%;
+	background-position:center;
+	background-repeat:no-repeat;
+	margin:10px;
+	vertical-align:top;
+	box-shadow:0 2px 3px rgba(0,0,0,0.5),
+				0 2px 3px rgba(255,255,255,0.5) inset;
+	
+
+}
+
+.icon_home{	
+	background-image:url("../img/home.png");	
+	background-color:#00a21e;
+}
+.icon_trash{	
+	background-image:url("../img/trash.png");	
+	background-color:#ad0a0a;
+}
+.icon_backspace{	
+	background-image:url("../img/backspace.png");	
+	background-color:#e4b204;
+}
+.icon_music{	
+	background-image:url("../img/music.png");	
+	background-color:#f10cde;
+}
+.icon_wait{	
+	background-image:url("../img/wait.png");	
+	background-color:#999999;
+}
+.icon_cloud{	
+	background-image:url("../img/cloud.png");	
+	background-color:#117ec5;
+}
+.icon_create{	
+	background-image:url("../img/create.png");	
+	background-color:#07cd2c;
+}
+.icon_edit{	
+	background-image:url("../img/edit.png");	
+	background-color:#a70499;
+}
+.icon_info{	
+	background-image:url("../img/info.png");	
+	background-color:#09e6ee;
+}
